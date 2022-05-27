@@ -1,0 +1,9 @@
+.app__main{
+    height: 100vh;
+}
+.app_about{
+    height: 90vh;
+}
+.plz{
+    cursor: pointer;
+}
