@@ -12,7 +12,7 @@ const AboutUs = () => {
         <div className="about__info">
           <p className="about__p1">
             <b>
-              We are 3rd year students of DIT University pursuing BTech CSE.{" "}
+              We are Final year students of DIT University pursuing BTech CSE.{" "}
             </b>
           </p>
           <p className="about__p2">
